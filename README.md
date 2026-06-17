@@ -1,7 +1,7 @@
 # End-to-End Sales Data Analysis & Business Insights Dashboard
 
 
-🚀**Project Overview:**
+🚀**Project Overview:**<br>
       This project focuses on analyzing a large sales dataset using Microsoft Excel, MySQL, and Power BI to uncover valuable business insights.
       The objective was to transform raw sales data into meaningful information that can support data-driven business decisions.
 
