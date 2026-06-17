@@ -1,6 +1,5 @@
 # Sales-Data-Analysis
 
-**This is my first end-to-end Data Analytics project using Excel, SQL, and Power BI.**
 
 🚀**Project Overview:**
       This project focuses on analyzing a large sales dataset using Microsoft Excel, MySQL, and Power BI to uncover valuable business insights.
