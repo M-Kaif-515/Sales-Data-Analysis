@@ -131,6 +131,6 @@
      ✅ Problem Solving.<br>
      ✅ Analytical Thinking.<br>
 
-⭐**Project Outcome**<br>
+⭐**Project Outcome:** <br>
      Successfully transformed raw sales data into interactive dashboards and actionable business insights using Excel, MySQL, and Power BI, <br>
      enabling better understanding of sales performance, customer behavior, profitability, and market trends.<br>
