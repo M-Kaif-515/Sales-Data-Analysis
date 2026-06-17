@@ -1,18 +1,18 @@
 # End-to-End Sales Data Analysis & Business Insights Dashboard
 
 
-🚀**<u>Project Overview:</u>** <br>
+🚀**Project Overview:** <br>
       This project focuses on analyzing a large sales dataset using Microsoft Excel, MySQL, and Power BI to uncover valuable business insights.<br>
       The objective was to transform raw sales data into meaningful information that can support data-driven business decisions.<br>
 
-🛠️<u>**Tools & Technologies Used:** </u> <br>
+🛠️**Tools & Technologies Used:** <br>
       📑 Microsoft Excel.<br>
       🗄️ MySQL.<br>
       📊 Power BI.<br>
       📈 Data Visualization.<br>
       📉 Business Intelligence.<br>
 
-📂<u>**Project Workflow:** </u><br>
+📂**Project Workflow:** <br>
 
 📑**Excel**<br>
       Imported and reviewed raw sales data.<br>
@@ -38,7 +38,7 @@
       Developed charts and visualizations for business analysis.<br>
       Implemented interactive dashboard navigation.<br>
 
-📋<u>**SQL Analysis Performed:** </u>  <br>
+📋**SQL Analysis Performed:** <br>
 
 🌍**Market Analysis** <br>
       Top Revenue Generating Markets.<br>
@@ -61,7 +61,7 @@
       Most Preferred Shipping Mode.<br>
       Order Distribution by Ship Mode.<br>
              
-📊<u>**Dashboard Pages:** </u><br>
+📊**Dashboard Pages:** <br>
 
 📌**Page 1: Executive Overview**<br>
       Total Sales KPI.<br>
@@ -81,7 +81,7 @@
       Segment Analysis.<br>
       Customer Contribution Analysis.(etc...)<br>
 
-📈<u>**Key Business Insights:** </u><br>
+📈**Key Business Insights:** <br>
 
 🌍**Market Performance**<br>
       APAC emerged as the highest revenue-generating market.<br>
@@ -119,7 +119,7 @@
       Retain high-value customers through loyalty and engagement strategies.<br>
       Promote top-performing products to maximize revenue and profit growth.<br>
 
-📚<u>**Skills Demonstrated:** </u> <br>
+📚**Skills Demonstrated:**  <br>
      ✅ Data Cleaning.<br>
      ✅ SQL Query Writing.<br>
      ✅ Data Analysis.<br>
@@ -131,6 +131,6 @@
      ✅ Problem Solving.<br>
      ✅ Analytical Thinking.<br>
 
-⭐<u>**Project Outcome**</u><br>
+⭐**Project Outcome**<br>
      Successfully transformed raw sales data into interactive dashboards and actionable business insights using Excel, MySQL, and Power BI, <br>
      enabling better understanding of sales performance, customer behavior, profitability, and market trends.<br>
