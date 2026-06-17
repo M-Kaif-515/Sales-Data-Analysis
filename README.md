@@ -63,10 +63,10 @@
              
 📊**Dashboard Pages:** <br>
 
-📌**Page 1: Executive Overview**<br>
-      Total Sales KPI.<br>
-      Total Profit KPI.<br>
-      Total Orders KPI.<br>
+📌**Page 1: Executive Overview KPI**<br>
+      Total Sales.<br>
+      Total Profit.<br>
+      Total Orders.<br>
       Sales by Region.<br>
       Sales Trend Analysis.(etc...)<br>
 📌**Page 2: Sales & Market Analysis**<br>
