@@ -69,9 +69,6 @@
       Total Orders.<br>
       Sales by Region.<br>
       Sales Trend Analysis.(etc...)<br>
-
-      <img width="1316" height="727" alt="DASHBOARD 1" src="https://github.com/user-attachments/assets/e249001d-ee4f-44e2-8dbb-7e98a09217e5" />
-
 📌**Page 2: Sales & Market Analysis**<br>
       Market Performance.<br>
       Category Analysis.<br>
