@@ -69,12 +69,17 @@
       Total Orders.<br>
       Sales by Region.<br>
       Sales Trend Analysis.(etc...)<br>
+      
      ![image alt](https://github.com/M-Kaif-515/Sales-Data-Analysis/blob/2b38389986934c1867d2169d05ae4d811b968dcb/DASHBOARD%201.png)
+
 📌**Page 2: Sales & Market Analysis**<br>
       Market Performance.<br>
       Category Analysis.<br>
       Regional Sales Comparison.<br>
       Interactive Filters & Slicers.(etc...)<br>
+
+      ![image alt](https://github.com/M-Kaif-515/Sales-Data-Analysis/blob/f0db145932ad6ce3ba7b7945c2d52c4975912310/DASHBOARD%202.png)
+      
 📌**Page 3: Product & Customer Insights**<br>
       Top Customers.<br>
       Top Products.<br>
