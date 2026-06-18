@@ -69,6 +69,8 @@
       Total Orders.<br>
       Sales by Region.<br>
       Sales Trend Analysis.(etc...)<br>
+      ![Dashboard 1]
+      (DASHBOARD%201.png)
 📌**Page 2: Sales & Market Analysis**<br>
       Market Performance.<br>
       Category Analysis.<br>
