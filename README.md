@@ -69,7 +69,7 @@
       Total Orders.<br>
       Sales by Region.<br>
       Sales Trend Analysis.(etc...)<br>
-     ![image alt]()
+     ![image alt](https://github.com/M-Kaif-515/Sales-Data-Analysis/blob/2b38389986934c1867d2169d05ae4d811b968dcb/DASHBOARD%201.png)
 📌**Page 2: Sales & Market Analysis**<br>
       Market Performance.<br>
       Category Analysis.<br>
