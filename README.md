@@ -70,7 +70,7 @@
       Sales by Region.<br>
       Sales Trend Analysis.(etc...)<br>
 
-      ![image alt](https://github.com/M-Kaif-515/Sales-Data-Analysis/blob/main/DASHBOARD%201.png?raw=true)<br>
+      ![image alt](https://github.com/M-Kaif-515/Sales-Data-Analysis/blob/main/DASHBOARD%201.png?raw=true)
 📌**Page 2: Sales & Market Analysis**<br>
       Market Performance.<br>
       Category Analysis.<br>
